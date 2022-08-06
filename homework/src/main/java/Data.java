@@ -1,7 +1,7 @@
 public class Data {
     private final int value;
 
-    public Data(Integer value) {
+    public Data(int value) {
         this.value = value;
     }
 
